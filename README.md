@@ -124,8 +124,8 @@ http://localhost:5174/
 ## 📸 Screenshots
 
 ## Home Page
-![Home Page](https://)
 
+<img src="images/C:\Users\asawa\OneDrive\Pictures\Screenshots\home.png.png" width="800" alt="Home Page Screenshot" />
 
 ---
 
