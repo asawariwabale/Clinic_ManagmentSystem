@@ -124,7 +124,7 @@ http://localhost:5174/
 ## 📸 Screenshots
 
 ## Home Page
-
+![Home Page](images/)
 
 ---
 
