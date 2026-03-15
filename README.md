@@ -124,23 +124,20 @@ http://localhost:5174/
 ## 📸 Screenshots
 
 ## Home Page
-
-<img src="images/C:\Users\asawa\OneDrive\Pictures\Screenshots\home.png.png" width="800" alt="Home Page Screenshot" />
+<img src="https://user-images.githubusercontent.com/12345678/home.png" width="800" alt="Home Page Screenshot" />
 
 ---
 
 ## Doctors Page
-<img width="1919" height="958" alt="Screenshot 2026-03-02 161805" src="https://github.com/user-attachments/assets/46a1ede9-d85a-45f6-a9b0-6b04c627d84f" />
 
 ---
 
 ## Services Page
-<img width="1911" height="959" alt="Screenshot 2026-03-02 161844" src="https://github.com/user-attachments/assets/c41232e6-c5fe-40e9-b7ba-b0d2a9cd176d" />
 
 ---
 ## Contact Page
 
-<img width="1919" height="946" alt="Screenshot 2026-03-02 162140" src="https://github.com/user-attachments/assets/9d615bc2-21be-40ca-b09b-2af5ab6ee5ff" />
+
 
 
 ---
