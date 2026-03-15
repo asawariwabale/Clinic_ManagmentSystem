@@ -124,7 +124,7 @@ http://localhost:5174/
 ## 📸 Screenshots
 
 ## Home Page
-<img src="https://user-images.githubusercontent.com/12345678/home.png" width="800" alt="Home Page Screenshot" />
+<img src="C:\Users\asawa\OneDrive\Pictures\Screenshots\home.png.png" width="800" alt="Home Page Screenshot" />
 
 ---
 
