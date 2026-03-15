@@ -1,0 +1,68 @@
+.doctors {
+  max-width: 1000px;
+  margin: 60px auto;
+  padding: 20px 30px;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  color: #333;
+}
+
+.doctors h2 {
+  font-size: 2.5rem;
+  color: #00796b;
+  margin-bottom: 40px;
+  font-weight: 600;
+}
+
+.doctor-cards {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.doc-card {
+  background: #ffffff;
+  border-radius: 15px;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.08);
+  padding: 20px;
+  width: 250px;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.doc-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 15px 25px rgba(0,0,0,0.15);
+}
+
+.doc-card img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 15px;
+}
+
+.doc-card h3 {
+  font-size: 1.3rem;
+  margin-bottom: 8px;
+  color: #004d40;
+}
+
+.doc-card p {
+  font-size: 1rem;
+  color: #555;
+}
+
+
+@media (max-width: 768px) {
+  .doctor-cards {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .doc-card {
+    width: 80%;
+    margin-bottom: 20px;
+  }
+}
