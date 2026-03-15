@@ -124,7 +124,9 @@ http://localhost:5174/
 ## 📸 Screenshots
 
 ## Home Page
-![Home Page](images/)
+<img width="1913" height="895" alt="Screenshot 2026-03-02 161528" src="https://github.com/user-attachments/assets/3d62b064-dd27-4587-8532-9426026f5057" />
+
+
 
 ---
 
