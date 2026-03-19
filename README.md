@@ -124,18 +124,22 @@ http://localhost:5174/
 ## 📸 Screenshots
 
 ## Home Page
-
+<img width="1913" height="895" alt="Screenshot 2026-03-02 161528" src="https://github.com/user-attachments/assets/d7d28ae7-91ec-4c02-aa16-e637ea1e6dd9" />
 
 ---
 
 ## Doctors Page
-
+ <img width="1919" height="958" alt="Screenshot 2026-03-02 161805" src="https://github.com/user-attachments/assets/0d9fb3d2-3c5a-4011-b235-5a884fd14904" /> 
+ 
 ---
 
 ## Services Page
+ <img width="1911" height="959" alt="Screenshot 2026-03-02 161844" src="https://github.com/user-attachments/assets/b89ce57c-75b0-47ce-83c5-c4bd33128415" />
 
 ---
 ## Contact Page
+ <img width="1919" height="946" alt="Screenshot 2026-03-02 162140" src="https://github.com/user-attachments/assets/1cf06f83-13af-41f6-b4d5-bcf9cfcde295" />
+
 
 
 
